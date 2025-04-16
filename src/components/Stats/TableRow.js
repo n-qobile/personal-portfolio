@@ -4,10 +4,11 @@ import PropTypes from 'prop-types';
 const TableRow = ({
   label, link, value, format,
 }) => (
-  <tr>
-    <td width="70%">{label}</td>
-    <td>{link ? <a href={link}>{format(value)}</a> : format(value)}</td>
-  </tr>
+ <tr>
+  <td style={{ width: '70%' }}>{label}</td>
+  <td>{link ? <a href={link}>{format(value)}</a> : format(value)}</td>
+</tr>
+
 );
 
 TableRow.propTypes = {
