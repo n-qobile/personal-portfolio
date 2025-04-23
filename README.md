@@ -1,4 +1,4 @@
-<title>Personal Portfolio</title>
+<h1>Personal Portfolio</h1>
 
 Welcome to my personal portfolio! This site showcases my collection of projects that I have built and worked on. You can explore my work here and get to know my skills, projects, and more about me.
 
