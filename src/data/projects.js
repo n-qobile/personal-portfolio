@@ -47,7 +47,7 @@ const data = [
   {
     title: 'Meditative Breathing',
     subtitle: 'Breath-controlled meditation.',
-    link: 'https://incredible-bienenstitch-5bc3df.netlify.app/',
+    link: 'https://meditativebreathing.netlify.app/',
     image: '/images/projects/meditation.jpg',
     date: '2024-08-15',
     desc:
@@ -58,7 +58,7 @@ const data = [
   {
     title: '2048',
     subtitle: 'A fun sliding tile puzzle game.',
-    link: 'https://fluffy-bublanina-9f25ad.netlify.app/',
+    link: 'https://2-48-game.netlify.app/',
     image: '/images/projects/2048.jpg',
     date: '2024-07-15',
     desc:
