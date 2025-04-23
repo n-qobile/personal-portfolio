@@ -16,7 +16,7 @@ module.exports = {
   parser: '@babel/eslint-parser',
   plugins: ['react', 'prettier'],
   rules: {
-    'implicit-arrow-linebreak': ['error', 'beside'],
+    'implicit-arrow-linebreak': 'off',
     'prettier/prettier': ['error'], // Enable Prettier errors
     'jsx-a11y/anchor-is-valid': [
       'error',
