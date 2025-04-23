@@ -13,9 +13,28 @@
  */
 const work = [
   {
+    name: 'Task Manager App',
+    position: 'MongoDB, Express, React, Node.js, Redux Toolkit, TailwindCSS',
+    url: '',
+    startDate: 'March 2025',
+    endDate: 'March 2025',
+    summary:
+      'Built a full-stack task management application with user authentication, task tracking, and admin management features, optimized for collaboration and efficiency.',
+    highlights: [
+      ' Role-based user authentication and authorization using JWT and cookies.',
+      ' Task assignment, priority setting, and status updates with real-time UI refresh.',
+      ' Comment/chat feature on individual tasks for team communication.',
+      ' Upload and manage task assets such as images.',
+      ' Admin dashboard with user control and task management capabilities.',
+      ' Frontend built with Vite, TailwindCSS, and Headless UI for modern UX.',
+      ' Fully deployed with separate frontend (Netlify) and backend (Render) servers.',
+    ],
+  },
+
+  {
     name: 'E-Commerce Site',
     position: 'MongoDB, Express, React, Node.js, Stripe, Redis',
-    url: '#ecommerce-site',
+    url: '',
     startDate: 'January 2025',
     endDate: 'January 2025',
     summary:
@@ -32,7 +51,7 @@ const work = [
   {
     name: 'Real-Time Chat App',
     position: 'MongoDB, Express, React, Node.js, Socket.IO, Cloudinary',
-    url: '#chatty',
+    url: '',
     startDate: 'November 2024',
     endDate: 'November 2024',
     summary:
@@ -49,7 +68,7 @@ const work = [
   {
     name: 'Home Budget App',
     position: 'React, React Router DOM, LocalStorage',
-    url: '#homebudget',
+    url: '',
     startDate: 'September 2024',
     endDate: 'September 2024',
     summary:
@@ -64,7 +83,7 @@ const work = [
   {
     name: 'Meditative Breathing App',
     position: 'HTML, CSS, JavaScript',
-    url: '#meditative',
+    url: '',
     startDate: 'August 2024',
     endDate: 'August 2024',
     summary:
@@ -79,7 +98,7 @@ const work = [
   {
     name: '2048 Game Clone',
     position: 'HTML, CSS, JavaScript',
-    url: '#game',
+    url: '',
     startDate: 'July 2024',
     endDate: 'July 2024',
     summary:
@@ -89,22 +108,6 @@ const work = [
       ' Handled CSS animations and dynamic class management in JavaScript.',
       ' Intermediate-level complexity and problem-solving.',
       ' Responsive and playable on desktop and mobile.',
-    ],
-  },
-  {
-    name: 'Speech-Language Pathologist',
-    position: 'Speech-Language Pathologist',
-    url: '',
-    startDate: '2022-01-01',
-    endDate: '',
-    summary:
-      'As a Speech-Language Pathologist in a government hospital, I provided assessment, evaluation, management and treatment services to patients across diverse age groups. I developed individualized treatment plans and worked collaboratively with multidisciplinary teams to improve communication and swallowing outcomes for patients. This experience honed my problem-solving, documentation, and stakeholder communication skills, all of which support my work in tech today.',
-    highlights: [
-      'Worked in high-pressure, resource-limited environments while delivering quality care.',
-      'Maintained detailed case notes and managed clinical documentation efficiently.',
-      'Collaborated with audiologists, doctors, occupational therapists, and nurses to coordinate holistic patient care.',
-      'Used evidence-based tools to evaluate communication and cognitive-linguistic challenges.',
-      'Built rapport with patients and families from various linguistic and cultural backgrounds.',
     ],
   },
 ];

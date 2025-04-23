@@ -4,15 +4,7 @@ import dayjs from 'dayjs';
 import Markdown from 'markdown-to-jsx';
 
 const Job = ({ data }) => {
-  const {
-    name,
-    position,
-    url,
-    startDate,
-    endDate,
-    summary,
-    highlights,
-  } = data;
+  const { name, position, url, startDate, endDate, summary, highlights } = data;
 
   return (
     <article className="jobs-container">

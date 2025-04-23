@@ -39,10 +39,10 @@ textarea {
 
 a {
   @include vendor(
-    "transition",
+    'transition',
     (
-      "color #{_duration(transition)} ease",
-      "border-bottom-color #{_duration(transition)} ease"
+      'color #{_duration(transition)} ease',
+      'border-bottom-color #{_duration(transition)} ease'
     )
   );
   border-bottom: dotted 1px _palette(border-alt);
@@ -50,7 +50,7 @@ a {
   text-decoration: none;
 
   &:before {
-    @include vendor("transition", ("color #{_duration(transition)} ease"));
+    @include vendor('transition', ('color #{_duration(transition)} ease'));
   }
 
   &:hover {
