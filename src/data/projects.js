@@ -1,5 +1,17 @@
 const data = [
   {
+    title: 'Streamify',
+    subtitle: 'Real-time video calling and messaging platform.',
+    link: 'https://streamify-zgq0.onrender.com',
+    image: '/images/projects/streamify.jpg',
+    date: '2025-05-01',
+    desc:
+      'A full-stack language exchange app with real-time messaging and group/1-on-1 video calls. ' +
+      'Built with the MERN stack and Stream API, it features reactions, typing indicators, screen sharing, JWT auth, and 32 unique UI themes. ' +
+      'Users can communicate instantly, customize their interface, and enjoy a seamless virtual connection experience.',
+  },
+
+  {
     title: 'TaskMe',
     subtitle: 'Task assignment and tracking application.',
     link: 'https://task-me-mern.netlify.app/log-in',

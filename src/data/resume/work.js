@@ -13,6 +13,27 @@
  */
 const work = [
   {
+    name: 'Streamify- Video Calling & Chat App',
+    position:
+      'MongoDB, Express, React, Node.js, Zustand, TailwindCSS, Stream API',
+    url: '',
+    startDate: 'May 2025',
+    endDate: 'May 2025',
+    summary:
+      'Developed a realtime video calling and messaging platform designed for language exchange. Features include chat with reactions, group calls, theme customization, and screen sharing.',
+    highlights: [
+      ' Real-time messaging with typing indicators, reactions, and online status via Stream API.',
+      ' 1-on-1 and group video calls with screen sharing and session recording capabilities.',
+      ' Secure JWT-based authentication and protected routes for user data security.',
+      ' Global state managed with Zustand and efficient data fetching via TanStack Query.',
+      ' 32 customizable themes for a dynamic and inclusive user experience.',
+      ' Responsive UI built with Vite and TailwindCSS for speed and accessibility.',
+      ' End-to-end error handling on both frontend and backend for production readiness.',
+      ' Deployed as a full-stack MERN application on Render.',
+    ],
+  },
+
+  {
     name: 'Task Manager App',
     position: 'MongoDB, Express, React, Node.js, Redux Toolkit, TailwindCSS',
     url: '',
@@ -27,7 +48,7 @@ const work = [
       ' Upload and manage task assets such as images.',
       ' Admin dashboard with user control and task management capabilities.',
       ' Frontend built with Vite, TailwindCSS, and Headless UI for modern UX.',
-      ' Fully deployed with separate frontend (Netlify) and backend (Render) servers.',
+      ' Fully deployed with client-server separation.',
     ],
   },
 

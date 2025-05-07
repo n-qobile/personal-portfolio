@@ -11,7 +11,7 @@ const skills = [
   },
   {
     title: 'React',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -23,11 +23,7 @@ const skills = [
   { title: 'CodeSandbox', competency: 3, category: ['Tools'] },
   { title: 'Netlify', competency: 4, category: ['Tools', 'Deployment'] },
   { title: 'Render', competency: 4, category: ['Tools', 'Deployment'] },
-  {
-    title: 'Heroku',
-    competency: 3,
-    category: ['Web Development', 'Tools'],
-  },
+
   {
     title: 'MongoDB',
     competency: 4,
@@ -51,7 +47,7 @@ const skills = [
 
   {
     title: 'Express.JS',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -61,7 +57,7 @@ const skills = [
   },
   {
     title: 'FastAPI',
-    competency: 2,
+    competency: 3,
     category: ['Web Development'],
   },
   {
@@ -83,11 +79,6 @@ const skills = [
     title: 'UI/UX Design',
     competency: 3,
     category: ['Web Development', 'Design'],
-  },
-  {
-    title: 'API Integration',
-    competency: 3,
-    category: ['Web Development', 'APIs'],
   },
   {
     title: 'CI/CD',
