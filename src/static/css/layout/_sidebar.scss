@@ -31,3 +31,25 @@
     width: 100%;
   }
 }
+
+// Add these styles to your existing src/static/css/layout/_sidebar.scss file
+// Place them at the bottom of the file
+
+/* Brand Statement Styling */
+
+#sidebar {
+  .blurb {
+    .brand-statement {
+      font-weight: 600;
+      font-size: 1em;
+      line-height: 1.6;
+      color: _palette(fg-bold);
+      margin-bottom: 1em;
+      padding: 1em;
+      background: linear-gradient(135deg, rgba(46, 89, 186, 0.05) 0%, rgba(46, 89, 186, 0.1) 100%);
+      border-left: 3px solid _palette(accent);
+      border-radius: 4px;
+      font-style: italic;
+    }
+  }
+}

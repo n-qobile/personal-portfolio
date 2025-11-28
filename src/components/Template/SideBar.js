@@ -25,7 +25,8 @@ const SideBar = () => (
       <h2>About</h2>
       <p className="brand-statement">
         Full-stack developer turning ideas into impact. From healthcare to code,
-        I bring empathy, creativity, and problem-solving to every project I build.
+        I bring empathy, creativity, and problem-solving to every project I
+        build.
       </p>
       <p>
         Hi, I&apos;m Nqobile. I&apos;m a self-taught developer passionate about
