@@ -24,7 +24,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p className="brand-statement">
-        Full-stack developer turning ideas into impact. From healthcare to code,
+        Fullstack developer turning ideas into impact. From healthcare to code,
         I bring empathy, creativity, and problem-solving to every project I
         build.
       </p>

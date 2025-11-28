@@ -1,50 +1,59 @@
-# Intro
+# Hi, I'm Nqobile 👋
 
-Hi, I'm Nqobile, a healthcare professional turned full-stack developer with a passion for problem-solving and improving user experiences. My experience in healthcare honed my problem-solving skills, attention to detail, and empathy—qualities I now apply to building meaningful digital solutions.
+I'm a **self-taught fullstack developer** with a unique journey from healthcare to tech. My background in Speech-Language Pathology taught me the power of communication, problem-solving, and empathy which are skills I now channel into building meaningful digital experiences.
 
-# Some History
+# My Journey to Tech
 
-- <strong>Graduated from University</strong>
-  I graduated with a degree in Speech-Language Pathology and began my professional journey in healthcare. I was excited to start making a difference in people's lives.
+In 2024, I stumbled upon a coding video by chance, and something clicked. I was captivated by the idea of solving real-world problems through technology. What started as curiosity quickly became a passion.
 
-- <strong>Worked as a Healthcare Worker</strong>
-  After graduation, I went into my community service year where I worked in the hospital, helping patients improve their communication skills and providing essential therapy.
+While still working in healthcare, I dove headfirst into learning JavaScript, React, Node.js, and everything in between. I'd finish my shifts at the hospital and immediately switch gears to coding where I was building projects, debugging errors at 2 AM, and gradually watching my skills transform.
 
-- <strong>Realized Healthcare Wasn’t My True Passion</strong>
-  While I loved helping others, I started to feel that my true interests lay elsewhere. I wanted to create lasting change and impact in a different way.
+Fast forward to today: I've built fullstack applications, tackled complex challenges, and discovered that I genuinely love this craft. I'm now fully committed to growing as a software engineer and contributing to impactful projects.
 
-- <strong>Discovered Coding by Chance</strong>
-  One day, I stumbled upon a video about coding. I was captivated by the idea of solving problems through technology, and instantly felt a spark of passion.
+# What Drives Me
 
-- <strong>Started Learning to Code in 2024</strong>
-  In early 2024, I made the decision to transition into tech. I began self-learning JavaScript, HTML, CSS, React and many more, diving deep into the world of development and discovering how much I enjoyed it while still working as a healthcare professional.
+- **Problem-solving**: I thrive on breaking down complex challenges into elegant solutions. Whether it's optimising a database query or designing an intuitive user interface, I love finding the "aha!" moment.
 
-- <strong>Grew My Skills Through Projects</strong>
-  Since then, I’ve worked on various projects, from building simple apps to diving into full-stack development, with the goal of building practical solutions and learning as much as possible.
+- **Continuous learning**: The tech landscape is always evolving, and I'm here for it. From mastering new frameworks to diving into AI integrations, I embrace the constant growth this field demands.
 
-- <strong>Now Here, Aspiring Developer</strong>
-  I’m now focused on building my career as a software developer, with a passion for problem-solving, learning new technologies, and making a meaningful impact in the tech world.
+- **Building with purpose**: I want to create tools and experiences that make people's lives better. Technology should be accessible, intuitive, and genuinely helpful.
 
-# I Like
+# My Approach to Development
 
-- Running
-- Numbers
-- Eating (especially Sushi)
-- Summer
-- White hot chocolate
+I believe great software comes from understanding both the technical and human sides of a problem. My healthcare background taught me to listen, empathise, and communicate clearly which are skills that translate surprisingly well into collaborating with teams, understanding user needs, and writing maintainable code.
+
+I'm particularly passionate about:
+- **Fullstack development** (MERN stack is my playground)
+- **Real-time applications** (there's something magical about instant connections)
+- **Clean, scalable code** (future me will thank present me)
+- **User-centered design** (if it's not intuitive, it's not done)
+
+# Beyond Code
+
+When I'm not coding, you'll find me:
+- **Running** – My favorite way to clear my head and think through complex problems.
+- **Eating sushi** – Obsessed, honestly. It's a problem.
+- **Playing with numbers** – I have this quirky habit of seeing letters as numbers and adding them up (yes, even on license plates).
+- **Dreaming up side projects** – Like designing loungewear specifically for remote workers. One day!
 
 # Fun Facts
 
-- I have a list of thousands of ideas, like creating a loungewear line for people who work from home.
-- I see letters as numbers and often add them up to get to a single digit. Often doing this with people's number plates.
-- I can't locate every country on a map.
-- I dislike coffee.
-- I am secretly hoping that I am not over-sharing as I write this page.
+- I can't pinpoint every country on a map (but I'm working on it!).
+- I strongly dislike coffee ☕️ (yes, I'm that developer).
+- Summer is my season – give me warmth and sunshine any day.
+- White hot chocolate > regular hot chocolate (fight me).
+- I secretly hope I'm not over-sharing as I write this page.
 
-# I Dream Of
+# What I'm Looking For
 
-- Inspiring and feeling inspired.
-- Treating every individual with genuine kindness and respect.
-- Staying curious.
-- Continually improving.
-- You not checking the commit history for earlier drafts of this file.
+I'm excited to join a team where I can:
+- Contribute to meaningful projects that solve real problems.
+- Continue learning from experienced developers.
+- Collaborate with people who value creativity and curiosity.
+- Build software that makes a difference.
+
+# Let's Connect
+
+Whether you're looking for a developer who brings fresh perspectives, want to collaborate on a project, or just want to chat about tech (or sushi), I'd love to hear from you!
+
+Check out my [projects](/projects), browse my [resume](/resume), or [get in touch](/contact). Let's build something awesome together! 🚀
