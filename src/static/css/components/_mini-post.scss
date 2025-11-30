@@ -121,3 +121,116 @@
     }
   }
 }
+
+/* Project Card Enhancements */
+
+.cell-container {
+  position: relative;
+
+  .capstone-badge {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    z-index: 10;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 0.5em 1em;
+    border-radius: 20px;
+    font-size: 0.7em;
+    font-weight: bold;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    
+    span {
+      display: flex;
+      align-items: center;
+      gap: 0.5em;
+    }
+  }
+
+  .description {
+    position: relative;
+    padding: 1.25em;
+    background-color: rgba(255, 255, 255, 0.95);
+    border-top: solid 1px _palette(border);
+
+    p {
+      font-size: 0.9rem;
+      margin: 0 0 1em 0;
+      color: #3c3b3b;
+      font-family: 'Raleway', Helvetica, sans-serif;
+      line-height: 1.6;
+    }
+
+    .tech-stack {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5em;
+      margin-bottom: 1em;
+
+      .tech-badge {
+        background: #f4f4f4;
+        color: #3c3b3b;
+        padding: 0.35em 0.75em;
+        border-radius: 4px;
+        font-size: 0.75rem;
+        font-weight: 600;
+        border: 1px solid rgba(160, 160, 160, 0.3);
+        transition: all 0.2s ease;
+
+        &:hover {
+          background: #e8e8e8;
+          transform: translateY(-2px);
+        }
+      }
+    }
+
+    .project-links {
+      display: flex;
+      gap: 0.75em;
+      margin-top: 1em;
+
+      .button {
+        flex: 1;
+        text-align: center;
+        padding: 0.5em 1em;
+        font-size: 0.7em;
+        margin: 0;
+        transition: all 0.2s ease;
+
+        &:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+      }
+    }
+  }
+
+  @media (max-width: 480px) {
+    .description {
+      position: relative;
+      padding: 1em;
+
+      .tech-stack {
+        gap: 0.4em;
+
+        .tech-badge {
+          font-size: 0.7rem;
+          padding: 0.3em 0.6em;
+        }
+      }
+
+      .project-links {
+        flex-direction: column;
+
+        .button {
+          width: 100%;
+        }
+      }
+    }
+
+    .capstone-badge {
+      font-size: 0.6em;
+      padding: 0.4em 0.8em;
+    }
+  }
+}
