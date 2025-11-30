@@ -31,6 +31,18 @@ const Resume = () => (
           <h2>
             <Link to="resume">Resume</Link>
           </h2>
+
+          {/* Download CV Button */}
+          <div className="resume-actions">
+            <a
+              href={`${process.env.PUBLIC_URL}/resume/Nqobile_Masombuka_Resume.pdf`}
+              download="Nqobile_Masombuka_Resume.pdf"
+              className="button download-cv"
+            >
+              📄 Download CV/Resume
+            </a>
+          </div>
+
           <div className="link-container">
             {Object.keys(sections).map((sec) => (
               <h4 key={sec}>
@@ -43,7 +55,6 @@ const Resume = () => (
 
       {Object.entries(sections).map(([name, Section]) => (
         <section key={name} id={name.toLowerCase()}>
-          {' '}
           <Section />
         </section>
       ))}
