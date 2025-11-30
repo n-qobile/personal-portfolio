@@ -23,7 +23,6 @@ const Cell = ({ data }) => (
       </a>
       <div className="description">
         <p>{data.desc}</p>
-        
         {/* Tech Stack */}
         {data.tools && data.tools.length > 0 && (
           <div className="tech-stack">

@@ -102,7 +102,7 @@ const data = [
     title: 'TaskMe',
     subtitle: 'Task assignment and tracking application.',
     liveLink: 'https://task-me-mern.netlify.app/log-in',
-    githubLink: 'https://github.com/n-qobile/task-manager',
+    githubLink: 'https://github.com/n-qobile/task-manager-app',
     image: '/images/projects/taskmanager.jpg',
     date: '2025-03-01',
     desc:
@@ -142,7 +142,7 @@ const data = [
     title: 'Chatty',
     subtitle: 'Realtime Chat Application',
     liveLink: 'https://realtime-chat-app-kfq9.onrender.com',
-    githubLink: 'https://github.com/n-qobile/realtime-chat',
+    githubLink: 'https://github.com/n-qobile/realtime-chat-app',
     image: '/images/projects/realtimechat.jpg',
     date: '2024-11-20',
     desc:
@@ -165,7 +165,7 @@ const data = [
     title: 'HomeBudget',
     subtitle: 'Take control of your money.',
     liveLink: 'https://budget-app-xi-silk.vercel.app/',
-    githubLink: 'https://github.com/n-qobile/home-budget',
+    githubLink: 'https://github.com/n-qobile/budget-app',
     image: '/images/projects/budgetapp.jpg',
     date: '2024-09-28',
     desc:
