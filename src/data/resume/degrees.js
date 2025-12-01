@@ -1,9 +1,9 @@
 const degrees = [
   {
-    school: 'SheCodes, Codecademy',
+    school: 'SheCodes, Codecademy, Coursera',
     degree: 'Coding certifications',
     link: '/stats',
-    year: 2024,
+    year: 2025,
   },
   {
     school: 'University of Cape Town',
