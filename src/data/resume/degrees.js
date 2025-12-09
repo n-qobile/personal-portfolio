@@ -1,16 +1,18 @@
 const degrees = [
 {
 school: ‘Project Y’,
-degree: ‘Full-Stack Development Program’,
+degree: ‘FullStack Development Program’,
 link: ‘https://projecty.co.za’,
 year: 2025,
 },
+  
 {
 school: ‘SheCodes, Codecademy, Coursera’,
 degree: ‘Coding Certifications & Courses’,
 link: ‘/stats’,
 year: 2024,
 },
+  
 {
 school: ‘University of Cape Town’,
 degree: ‘B.Sc. Speech-Language Pathology’,
