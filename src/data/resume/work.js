@@ -20,96 +20,66 @@ const work = [
     startDate: '2025-10-01',
     endDate: '',
     summary:
-      'Developed a realtime video calling and messaging platform designed for language exchange. Features include chat with reactions, group calls, theme customization, and screen sharing.',
+       'Completing rigorous full-stack development training focused on building production-ready applications with modern technologies, including cloud computing, AI/LLM integration, data engineering and DevOps practices. ',
     highlights: [
-      'Completing rigorous full-stack development training focused on building production-ready applications with modern technologies including cloud computing, AI/LLM integration, data engineering and DevOps practices. ',
-'Developed multiple full-stack applications using JavaScript ecosystem, Python/Fast API, PostgreSQL and cloud deployment strategies on a weekly basis. ',
-'Collaborated with peers on team projects using Agile methodologies and Git workflows. ',
-'Gained hands-on experience with AWS, Azure, Docker, CI/CD Pipelines, and modern deployment best practices.',
+      'Developed multiple full-stack applications using JavaScript ecosystem, Python/Fast API, PostgreSQL and cloud deployment strategies every week. ',
+      'Collaborated with peers on team projects using Agile methodologies and Git workflows. ',
+      'Gained hands-on experience with AWS, Azure, Docker, CI/CD Pipelines, and modern deployment best practices. ',
     ],
   },
 
    {
     name: 'PrepCheck',
     position:
-      'MongoDB, Express, React, Node.js, Zustand, TailwindCSS, Stream API',
+      'React 18, Framer Motion, Recharts, Axios, Node.js, Express.js, Multer, pdf-parse, Mammoth, Google Gemini 2.0 Flash. ',
     url: '',
-    startDate: 'May 2025',
-    endDate: 'May 2025',
+    startDate: '2025-11-17',
+    endDate: '2025-11-21',
     summary:
-      'Developed a realtime video calling and messaging platform designed for language exchange. Features include chat with reactions, group calls, theme customization, and screen sharing.',
+      'Build an AI-powered work readiness screener providing personalised CV analysis and personalised recommendations. ',
     highlights: [
-      ' Real-time messaging with typing indicators, reactions, and online status via Stream API.',
-      ' 1-on-1 and group video calls with screen sharing and session recording capabilities.',
-      ' Secure JWT-based authentication and protected routes for user data security.',
-      ' Global state managed with Zustand and efficient data fetching via TanStack Query.',
-      ' 32 customizable themes for a dynamic and inclusive user experience.',
-      ' Responsive UI built with Vite and TailwindCSS for speed and accessibility.',
-      ' End-to-end error handling on both frontend and backend for production readiness.',
-      ' Deployed as a full-stack MERN application on Render.',
+      ' Integrated Gemini API to generate dynamic CV analysis, personalised recommendation, and a real-time chatbot (PrepPal). ',
     ],
   },
 
    {
-    name: 'Muse',
+    name: 'MuseMotion',
     position:
-      'MongoDB, Express, React, Node.js, Zustand, TailwindCSS, Stream API',
+      'Kaggle Datasets, SQL, MySQL, Pandas, Microsoft Azure, Streamlit. ',
     url: '',
-    startDate: 'May 2025',
-    endDate: 'May 2025',
+    startDate: '2025-11-03',
+    endDate: '2025-11-07',
     summary:
-      'Developed a realtime video calling and messaging platform designed for language exchange. Features include chat with reactions, group calls, theme customization, and screen sharing.',
+      'Built a comprehensive data engineering platform that processes, analyses and visualises insights from electric vehicle datasets. ',
     highlights: [
-      ' Real-time messaging with typing indicators, reactions, and online status via Stream API.',
-      ' 1-on-1 and group video calls with screen sharing and session recording capabilities.',
-      ' Secure JWT-based authentication and protected routes for user data security.',
-      ' Global state managed with Zustand and efficient data fetching via TanStack Query.',
-      ' 32 customizable themes for a dynamic and inclusive user experience.',
-      ' Responsive UI built with Vite and TailwindCSS for speed and accessibility.',
-      ' End-to-end error handling on both frontend and backend for production readiness.',
-      ' Deployed as a full-stack MERN application on Render.',
+      'Automates data ingestion, transformation and cloud-based storage. ',
     ],
   },
 
    {
-    name: 'Muse',
+    name: 'MuseMind',
     position:
-      'MongoDB, Express, React, Node.js, Zustand, TailwindCSS, Stream API',
+      'Express.js, Node.js, CORS, dotenv, Gemini API, JavaScript, CSS, HTML. ',
     url: '',
-    startDate: 'May 2025',
-    endDate: 'May 2025',
+    startDate: '2025-10-13',
+    endDate: '2025-10-17',
     summary:
-      'Developed a realtime video calling and messaging platform designed for language exchange. Features include chat with reactions, group calls, theme customization, and screen sharing.',
+      'Built an AI-powered poem generator that utilises Google Gemini API for intelligent, contextual poem creation. ',
     highlights: [
-      ' Real-time messaging with typing indicators, reactions, and online status via Stream API.',
-      ' 1-on-1 and group video calls with screen sharing and session recording capabilities.',
-      ' Secure JWT-based authentication and protected routes for user data security.',
-      ' Global state managed with Zustand and efficient data fetching via TanStack Query.',
-      ' 32 customizable themes for a dynamic and inclusive user experience.',
-      ' Responsive UI built with Vite and TailwindCSS for speed and accessibility.',
-      ' End-to-end error handling on both frontend and backend for production readiness.',
-      ' Deployed as a full-stack MERN application on Render.',
-    ],
+      ' Real-time poem generation with beautiful themed UI and responsive design. ',
   },
 
    {
-    name: 'Muse',
+    name: 'Streamify (Video Calling & Chat App) ',
     position:
       'MongoDB, Express, React, Node.js, Zustand, TailwindCSS, Stream API',
     url: '',
-    startDate: 'May 2025',
-    endDate: 'May 2025',
+    startDate: '2025-05-01',
+    endDate: '2025-05-31',
     summary:
-      'Developed a realtime video calling and messaging platform designed for language exchange. Features include chat with reactions, group calls, theme customization, and screen sharing.',
+      'Developed a realtime video calling and messaging platform designed for language exchange. Features include chat with reactions, group calls, theme customisation, and screen sharing. ',
     highlights: [
-      ' Real-time messaging with typing indicators, reactions, and online status via Stream API.',
-      ' 1-on-1 and group video calls with screen sharing and session recording capabilities.',
-      ' Secure JWT-based authentication and protected routes for user data security.',
-      ' Global state managed with Zustand and efficient data fetching via TanStack Query.',
-      ' 32 customizable themes for a dynamic and inclusive user experience.',
-      ' Responsive UI built with Vite and TailwindCSS for speed and accessibility.',
-      ' End-to-end error handling on both frontend and backend for production readiness.',
-      ' Deployed as a full-stack MERN application on Render.',
+      ' Built a secure, real-time platform for 1-on-1 and group video calling, live chat with reactions, typing indicators, screen sharing, and 32 unique UI themes. ',
     ],
   },
 
@@ -117,36 +87,12 @@ const work = [
     name: 'Task Manager App',
     position: 'MongoDB, Express, React, Node.js, Redux Toolkit, TailwindCSS',
     url: '',
-    startDate: 'March 2025',
-    endDate: 'March 2025',
+    startDate: '2025-03-01',
+    endDate: '2025-03-31',
     summary:
-      'Built a full-stack task management application with user authentication, task tracking, and admin management features, optimized for collaboration and efficiency.',
+      'Built a full-stack task management application with user authentication, task tracking, and admin management features, optimised for collaboration and efficiency. ',
     highlights: [
-      ' Role-based user authentication and authorization using JWT and cookies.',
-      ' Task assignment, priority setting, and status updates with real-time UI refresh.',
-      ' Comment/chat feature on individual tasks for team communication.',
-      ' Upload and manage task assets such as images.',
-      ' Admin dashboard with user control and task management capabilities.',
-      ' Frontend built with Vite, TailwindCSS, and Headless UI for modern UX.',
-      ' Fully deployed with client-server separation.',
-    ],
-  },
-
-  {
-    name: 'E-Commerce Site',
-    position: 'MongoDB, Express, React, Node.js, Stripe, Redis',
-    url: '',
-    startDate: 'January 2025',
-    endDate: 'January 2025',
-    summary:
-      'Developed a complete e-commerce web application using the MERN stack, implementing a responsive UI and robust backend features for user and admin experiences.',
-    highlights: [
-      ' Product and category management with CRUD functionality.',
-      ' Stripe integration for secure checkout and payments.',
-      ' JWT-based user authentication with refresh/access tokens.',
-      ' Admin dashboard with real-time sales analytics and coupon management.',
-      ' Redis caching for performance optimization.',
-      ' Built with TailwindCSS and deployed on modern hosting platforms.',
+      ' Developed a task management app with role-based auth, dynamic filtering, file uploads, and Firebase storage. ',
     ],
   },
 ];
