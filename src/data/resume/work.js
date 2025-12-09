@@ -14,13 +14,12 @@
 const work = [
   {
     name: 'Project Y',
-    position:
-      '',
+    position: '',
     url: '',
     startDate: '2025-10-01',
     endDate: '',
     summary:
-       'Completing rigorous full-stack development training focused on building production-ready applications with modern technologies, including cloud computing, AI/LLM integration, data engineering and DevOps practices. ',
+      'Completing rigorous full-stack development training focused on building production-ready applications with modern technologies, including cloud computing, AI/LLM integration, data engineering and DevOps practices. ',
     highlights: [
       'Developed multiple full-stack applications using JavaScript ecosystem, Python/Fast API, PostgreSQL and cloud deployment strategies every week. ',
       'Collaborated with peers on team projects using Agile methodologies and Git workflows. ',
@@ -28,7 +27,7 @@ const work = [
     ],
   },
 
-   {
+  {
     name: 'PrepCheck',
     position:
       'React 18, Framer Motion, Recharts, Axios, Node.js, Express.js, Multer, pdf-parse, Mammoth, Google Gemini 2.0 Flash. ',
@@ -42,7 +41,7 @@ const work = [
     ],
   },
 
-   {
+  {
     name: 'MuseMotion',
     position:
       'Kaggle Datasets, SQL, MySQL, Pandas, Microsoft Azure, Streamlit. ',
@@ -56,7 +55,7 @@ const work = [
     ],
   },
 
-   {
+  {
     name: 'MuseMind',
     position:
       'Express.js, Node.js, CORS, dotenv, Gemini API, JavaScript, CSS, HTML. ',
@@ -67,10 +66,10 @@ const work = [
       'Built an AI-powered poem generator that utilises Google Gemini API for intelligent, contextual poem creation. ',
     highlights: [
       ' Real-time poem generation with beautiful themed UI and responsive design. ',
-      ],
+    ],
   },
 
-   {
+  {
     name: 'Streamify (Video Calling & Chat App) ',
     position:
       'MongoDB, Express, React, Node.js, Zustand, TailwindCSS, Stream API',

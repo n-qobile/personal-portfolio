@@ -14,10 +14,10 @@ const skills = [
     competency: 4,
     category: ['Web Development', 'Javascript'],
   },
-    {
+  {
     title: 'Python',
     competency: 2,
-    category: ['Web Development',],
+    category: ['Web Development'],
   },
   {
     title: 'Bootstrap',
@@ -90,42 +90,42 @@ const skills = [
     competency: 4,
     category: ['Tools', 'Web Development'],
   },
-   {
+  {
     title: 'AWS',
     competency: 3,
     category: ['Tools', 'Deployment'],
   },
-    {
+  {
     title: 'Azure',
     competency: 3,
     category: ['Tools', 'Deployment'],
   },
-    {
+  {
     title: 'Docker/DockerHub',
     competency: 2,
     category: ['Tools', 'Deployment'],
   },
-    {
+  {
     title: 'Kubernetes',
     competency: 2,
     category: ['Tools', 'Deployment'],
   },
-    {
+  {
     title: 'Streamlit',
     competency: 3,
     category: ['Design'],
   },
-    {
+  {
     title: 'PowerApps',
     competency: 3,
-    category: ['Design', 'Web Development','Tools'],
-  }, 
+    category: ['Design', 'Web Development', 'Tools'],
+  },
   {
     title: 'Testing (Jest/Mocha)',
     competency: 2,
     category: ['Tools', 'Testing'],
   },
-    {
+  {
     title: 'Testing (PostMan)',
     competency: 3,
     category: ['Tools', 'Testing'],
