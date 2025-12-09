@@ -13,74 +13,23 @@
  */
 const work = [
   {
-    name: 'Project Y',
-    position:
-      '',
-    url: '',
-    startDate: '2025-10-01',
-    endDate: '',
-    summary:
-       'Completing rigorous full-stack development training focused on building production-ready applications with modern technologies, including cloud computing, AI/LLM integration, data engineering and DevOps practices. ',
-    highlights: [
-      'Developed multiple full-stack applications using JavaScript ecosystem, Python/Fast API, PostgreSQL and cloud deployment strategies every week. ',
-      'Collaborated with peers on team projects using Agile methodologies and Git workflows. ',
-      'Gained hands-on experience with AWS, Azure, Docker, CI/CD Pipelines, and modern deployment best practices. ',
-    ],
-  },
-
-   {
-    name: 'PrepCheck',
-    position:
-      'React 18, Framer Motion, Recharts, Axios, Node.js, Express.js, Multer, pdf-parse, Mammoth, Google Gemini 2.0 Flash. ',
-    url: '',
-    startDate: '2025-11-17',
-    endDate: '2025-11-21',
-    summary:
-      'Build an AI-powered work readiness screener providing personalised CV analysis and personalised recommendations. ',
-    highlights: [
-      ' Integrated Gemini API to generate dynamic CV analysis, personalised recommendation, and a real-time chatbot (PrepPal). ',
-    ],
-  },
-
-   {
-    name: 'MuseMotion',
-    position:
-      'Kaggle Datasets, SQL, MySQL, Pandas, Microsoft Azure, Streamlit. ',
-    url: '',
-    startDate: '2025-11-03',
-    endDate: '2025-11-07',
-    summary:
-      'Built a comprehensive data engineering platform that processes, analyses and visualises insights from electric vehicle datasets. ',
-    highlights: [
-      'Automates data ingestion, transformation and cloud-based storage. ',
-    ],
-  },
-
-   {
-    name: 'MuseMind',
-    position:
-      'Express.js, Node.js, CORS, dotenv, Gemini API, JavaScript, CSS, HTML. ',
-    url: '',
-    startDate: '2025-10-13',
-    endDate: '2025-10-17',
-    summary:
-      'Built an AI-powered poem generator that utilises Google Gemini API for intelligent, contextual poem creation. ',
-    highlights: [
-      ' Real-time poem generation with beautiful themed UI and responsive design. ',
-      ],
-  },
-
-   {
-    name: 'Streamify (Video Calling & Chat App) ',
+    name: 'Streamify- Video Calling & Chat App',
     position:
       'MongoDB, Express, React, Node.js, Zustand, TailwindCSS, Stream API',
     url: '',
-    startDate: '2025-05-01',
-    endDate: '2025-05-31',
+    startDate: 'May 2025',
+    endDate: 'May 2025',
     summary:
-      'Developed a realtime video calling and messaging platform designed for language exchange. Features include chat with reactions, group calls, theme customisation, and screen sharing. ',
+      'Developed a realtime video calling and messaging platform designed for language exchange. Features include chat with reactions, group calls, theme customization, and screen sharing.',
     highlights: [
-      ' Built a secure, real-time platform for 1-on-1 and group video calling, live chat with reactions, typing indicators, screen sharing, and 32 unique UI themes. ',
+      ' Real-time messaging with typing indicators, reactions, and online status via Stream API.',
+      ' 1-on-1 and group video calls with screen sharing and session recording capabilities.',
+      ' Secure JWT-based authentication and protected routes for user data security.',
+      ' Global state managed with Zustand and efficient data fetching via TanStack Query.',
+      ' 32 customizable themes for a dynamic and inclusive user experience.',
+      ' Responsive UI built with Vite and TailwindCSS for speed and accessibility.',
+      ' End-to-end error handling on both frontend and backend for production readiness.',
+      ' Deployed as a full-stack MERN application on Render.',
     ],
   },
 
@@ -88,12 +37,98 @@ const work = [
     name: 'Task Manager App',
     position: 'MongoDB, Express, React, Node.js, Redux Toolkit, TailwindCSS',
     url: '',
-    startDate: '2025-03-01',
-    endDate: '2025-03-31',
+    startDate: 'March 2025',
+    endDate: 'March 2025',
     summary:
-      'Built a full-stack task management application with user authentication, task tracking, and admin management features, optimised for collaboration and efficiency. ',
+      'Built a full-stack task management application with user authentication, task tracking, and admin management features, optimized for collaboration and efficiency.',
     highlights: [
-      ' Developed a task management app with role-based auth, dynamic filtering, file uploads, and Firebase storage. ',
+      ' Role-based user authentication and authorization using JWT and cookies.',
+      ' Task assignment, priority setting, and status updates with real-time UI refresh.',
+      ' Comment/chat feature on individual tasks for team communication.',
+      ' Upload and manage task assets such as images.',
+      ' Admin dashboard with user control and task management capabilities.',
+      ' Frontend built with Vite, TailwindCSS, and Headless UI for modern UX.',
+      ' Fully deployed with client-server separation.',
+    ],
+  },
+
+  {
+    name: 'E-Commerce Site',
+    position: 'MongoDB, Express, React, Node.js, Stripe, Redis',
+    url: '',
+    startDate: 'January 2025',
+    endDate: 'January 2025',
+    summary:
+      'Developed a complete e-commerce web application using the MERN stack, implementing a responsive UI and robust backend features for user and admin experiences.',
+    highlights: [
+      ' Product and category management with CRUD functionality.',
+      ' Stripe integration for secure checkout and payments.',
+      ' JWT-based user authentication with refresh/access tokens.',
+      ' Admin dashboard with real-time sales analytics and coupon management.',
+      ' Redis caching for performance optimization.',
+      ' Built with TailwindCSS and deployed on modern hosting platforms.',
+    ],
+  },
+  {
+    name: 'Real-Time Chat App',
+    position: 'MongoDB, Express, React, Node.js, Socket.IO, Cloudinary',
+    url: '',
+    startDate: 'November 2024',
+    endDate: 'November 2024',
+    summary:
+      'Built a real-time chat app using the MERN stack and Socket.IO, with features for user customization, media uploads, and secure messaging.',
+    highlights: [
+      ' Real-time messaging with Socket.IO and online user status.',
+      ' Cloudinary integration for image uploads.',
+      ' Theme switching and profile photo customization.',
+      ' Secure login/signup using JWT authentication.',
+      ' Zustand for global state management.',
+      ' Fully deployed with client-server separation.',
+    ],
+  },
+  {
+    name: 'Home Budget App',
+    position: 'React, React Router DOM, LocalStorage',
+    url: '',
+    startDate: 'September 2024',
+    endDate: 'September 2024',
+    summary:
+      'Created a single-page budgeting app using React, featuring dynamic navigation and persistent data storage for easy financial tracking.',
+    highlights: [
+      ' React Router DOM used for smooth navigation.',
+      ' LocalStorage integration for saving user data.',
+      ' Protected routes and error handling.',
+      ' Emphasis on simplicity, clarity, and UX.',
+    ],
+  },
+  {
+    name: 'Meditative Breathing App',
+    position: 'HTML, CSS, JavaScript',
+    url: '',
+    startDate: 'August 2024',
+    endDate: 'August 2024',
+    summary:
+      'Developed a vanilla JavaScript app to guide users through customizable breathing sessions, with relaxing sounds and minimal distractions.',
+    highlights: [
+      ' Timed inhale-hold-exhale cycles with visual animations.',
+      ' Background sound options with play/pause control.',
+      ' Session customization for user preference.',
+      ' Focused on calm UX and mobile-friendly layout.',
+    ],
+  },
+  {
+    name: '2048 Game Clone',
+    position: 'HTML, CSS, JavaScript',
+    url: '',
+    startDate: 'July 2024',
+    endDate: 'July 2024',
+    summary:
+      'Cloned the popular 2048 game using JavaScript, with smooth animations, score tracking, and full gameplay logic.',
+    highlights: [
+      ' Complete logic for tile merging, score updates, and win/lose states.',
+      ' Handled CSS animations and dynamic class management in JavaScript.',
+      ' Intermediate-level complexity and problem-solving.',
+      ' Responsive and playable on desktop and mobile.',
     ],
   },
 ];

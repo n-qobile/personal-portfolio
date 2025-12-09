@@ -5,7 +5,7 @@ Welcome to my personal portfolio! This site showcases my collection of projects 
 Highlights:
 
 - Built with modern JavaScript, using tools and frameworks like create-react-app, React-Router, and SCSS.
-- Automated workflows via render auto deploy. 
+- Automated workflows via GitHub Actions.
 - And more!
   
 Live demo: https://nqobile-portfolio.onrender.com/
