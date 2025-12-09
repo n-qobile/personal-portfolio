@@ -67,6 +67,7 @@ const work = [
       'Built an AI-powered poem generator that utilises Google Gemini API for intelligent, contextual poem creation. ',
     highlights: [
       ' Real-time poem generation with beautiful themed UI and responsive design. ',
+      ],
   },
 
    {
