@@ -22,14 +22,10 @@ const work = [
     summary:
       'Developed a realtime video calling and messaging platform designed for language exchange. Features include chat with reactions, group calls, theme customization, and screen sharing.',
     highlights: [
-      ' Real-time messaging with typing indicators, reactions, and online status via Stream API.',
-      ' 1-on-1 and group video calls with screen sharing and session recording capabilities.',
-      ' Secure JWT-based authentication and protected routes for user data security.',
-      ' Global state managed with Zustand and efficient data fetching via TanStack Query.',
-      ' 32 customizable themes for a dynamic and inclusive user experience.',
-      ' Responsive UI built with Vite and TailwindCSS for speed and accessibility.',
-      ' End-to-end error handling on both frontend and backend for production readiness.',
-      ' Deployed as a full-stack MERN application on Render.',
+      'Completing rigorous full-stack development training focused on building production-ready applications with modern technologies including cloud computing, AI/LLM integration, data engineering and DevOps practices. ',
+'Developed multiple full-stack applications using JavaScript ecosystem, Python/Fast API, PostgreSQL and cloud deployment strategies on a weekly basis. ',
+'Collaborated with peers on team projects using Agile methodologies and Git workflows. ',
+'Gained hands-on experience with AWS, Azure, Docker, CI/CD Pipelines, and modern deployment best practices.',
     ],
   },
 
