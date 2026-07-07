@@ -92,22 +92,27 @@ const skills = [
   },
   {
     title: 'AWS',
+    competency: 4,
+    category: ['Tools', 'Deployment'],
+  },
+  {
+    title: 'Microsoft Azure',
     competency: 3,
     category: ['Tools', 'Deployment'],
   },
   {
-    title: 'Azure',
-    competency: 3,
+    title: 'Google Cloud',
+    competency: 2,
     category: ['Tools', 'Deployment'],
   },
   {
     title: 'Docker/DockerHub',
-    competency: 2,
+    competency: 4,
     category: ['Tools', 'Deployment'],
   },
   {
     title: 'Kubernetes',
-    competency: 2,
+    competency: 4,
     category: ['Tools', 'Deployment'],
   },
   {
