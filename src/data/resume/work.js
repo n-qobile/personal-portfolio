@@ -13,6 +13,23 @@
  */
 const work = [
   {
+    name: 'eJuuZ',
+    position: 'Lead Fullstack Developer',
+    url: 'work placement',
+    startDate: '2026-02-01',
+    endDate: '',
+    summary:
+      'Promoted from Fullstack Developer Intern to Lead Fullstack Developer in recognition of technical contribution, ownership and leadership within the development team. ',
+    highlights: [
+      'Lead daily standup meetings and coordinated communication between development team and management. ',
+      'Coordinate development tasks, monitor project progress and support team members throughout the software development lifecycle. ',
+      'Develop and maintain fullstack web applications using React, Node.js, Express.js and MongoDB. ',
+      'Build and maintain the company`s website, implementing new features and improvements. ',
+      'Collaborate on software development using Git and GitHub, including pull request reviews and team workflows. ',
+      'Design and integrate REST APIs while troubleshooting and resolving application issues to improve performance and reliability. ',
+    ],
+  },
+  {
     name: 'Project Y',
     position: '',
     url: '',
@@ -28,14 +45,44 @@ const work = [
   },
 
   {
+    name: 'Stroke Data Lake',
+    position:
+      'AWS (Terraform, S3, Glue, Athena), SQL, GitHub pages, Python Plotly. ',
+    url: '',
+    startDate: '2026-02-02',
+    endDate: '2026-02-28',
+    summary:
+      'Built a cloud-based data lake for storing and analysing healthcare datasets using AWS. ',
+    highlights: [
+      'Designed secure data ingestion and storage workflows following AWS architecture best practices. ',
+      'Implemented scalable cloud storage to support efficient data management and analysis.',
+    ],
+  },
+
+  {
+    name: 'IRIS',
+    position:
+      'AWS (S3, Rekognition, Lambda, Cloudfront, Gateway, DynamoDB, CloudWatch), React, Custom CSS, Fetch API, AWS CLI, GitHub Actions. ',
+    url: '',
+    startDate: '2026-01-01',
+    endDate: '2026-01-31',
+    summary:
+      'Built an AI-powered image intelligence platform using AWS cloud services for image analysis and processing. ',
+    highlights: [
+      'Designed a scalable cloud architecture integrating AI capabilities with secure cloud storage and application delivery. ',
+      'Applied AWS best practices for cloud deployment and infrastructure management ',
+    ],
+  },
+
+  {
     name: 'PrepCheck',
     position:
-      'React 18, Framer Motion, Recharts, Axios, Node.js, Express.js, Multer, pdf-parse, Mammoth, Google Gemini 2.0 Flash. ',
+      'React 18, Framer Motion, Recharts, Axios, Node.js, Express.js, Multer, pdf-parse, Mammoth, Google Gemini 2.0 Flash, Docker, Kubermetes, Docker Hub. ',
     url: '',
     startDate: '2025-11-17',
     endDate: '2025-11-21',
     summary:
-      'Build an AI-powered work readiness screener providing personalised CV analysis and personalised recommendations. ',
+      'Built an AI-powered work readiness screener providing personalised CV analysis and personalised recommendations. ',
     highlights: [
       ' Integrated Gemini API to generate dynamic CV analysis, personalised recommendation, and a real-time chatbot (PrepPal). ',
     ],
