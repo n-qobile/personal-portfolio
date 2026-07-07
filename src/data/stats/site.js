@@ -1,72 +1,27 @@
 const data = [
   {
     key: 'coursesCompleted',
-    label: 'SheCodes Basic',
+    label: 'SheCodes: Basic, Basics Add-On, Plus, Next',
     value: 'completed',
   },
   {
     key: 'coursesCompleted',
-    label: 'Learn HTML',
+    label: 'Codecademy: Fullstack Engineer Career Path',
     value: 'completed',
   },
   {
     key: 'coursesCompleted',
-    label: 'Learn CSS',
+    label: 'Coursera: AI Engineering, Cloud Engineering, Data Engineering',
     value: 'completed',
   },
   {
     key: 'coursesCompleted',
-    label: 'Learn Intermediate CSS',
+    label: 'AWS Academy: Cloud Foundations, Cloud Architecting,',
     value: 'completed',
   },
   {
     key: 'coursesCompleted',
-    label: 'Learn JavaScript',
-    value: 'completed',
-  },
-  {
-    key: 'coursesCompleted',
-    label: 'Learn Intermediate JavaScript',
-    value: 'completed',
-  },
-  {
-    key: 'coursesCompleted',
-    label: 'Learn React',
-    value: 'completed',
-  },
-  {
-    key: 'coursesCompleted',
-    label: 'Learn Advanced React',
-    value: 'completed',
-  },
-  {
-    key: 'coursesCompleted',
-    label: 'Learn Bootstrap',
-    value: 'completed',
-  },
-  {
-    key: 'coursesCompleted',
-    label: 'Learn Git & Github',
-    value: 'completed',
-  },
-  {
-    key: 'coursesCompleted',
-    label: 'Learn Node.js',
-    value: 'completed',
-  },
-  {
-    key: 'coursesCompleted',
-    label: 'Learn SQL',
-    value: 'completed',
-  },
-  {
-    key: 'coursesCompleted',
-    label: 'Learn Node-SQLite',
-    value: 'completed',
-  },
-  {
-    key: 'coursesCompleted',
-    label: 'Learn Python',
+    label: 'AWS Certified Solutions Architect - Associate',
     value: 'in progress',
   },
 ];
