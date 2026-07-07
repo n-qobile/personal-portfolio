@@ -24,13 +24,14 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p className="brand-statement">
-        Fullstack developer turning ideas into impact. From healthcare to code,
-        I bring empathy, creativity, and problem-solving to every project I
-        build.
+        Software engineer building modern fullstack 
+        applications with JavaScript while expanding expertise 
+        in Cloud Engineering.
       </p>
       <p>
-        Hi, I&apos;m Nqobile. I&apos;m a self-taught developer passionate about
-        building meaningful digital experiences.
+        Hi, I&apos;m Nqobile. I&apos;m a Software Engineer passionate about
+        building meaningful digital experiences. Currently expanding expertise 
+        in Cloud Engineering. 
       </p>
       <ul className="actions">
         <li>
