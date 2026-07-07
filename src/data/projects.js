@@ -1,5 +1,49 @@
 const data = [
   {
+    id: 'strokedatalake',
+    title: 'Stroke Data Lake',
+    subtitle: 'Cloud-based Healthcare Data Lake',
+    liveLink: 'https://n-qobile.github.io/stroke-data-lake-aws/',
+    githubLink: 'https://github.com/n-qobile/stroke-data-lake-aws.git',
+    image: '/images/projects/strokedatalake.jpg',
+    date: '2026-02-21',
+    desc:
+      'The Stroke Data Lake cloud-based data lake for storing and analysing healthcare datasets using AWS. ' +
+      'Implemented scalable cloud storage to support efficient data management and analysis ',
+    tools: [
+      'AWS (Terraform, S3, Glue, Athena)',
+      'SQL',
+      'GitHub Pages',
+      'Python Plotly',
+    ],
+    isCapstone: false,
+    hasCaseStudy: true,
+  },
+
+  {
+    id: 'iris',
+    title: 'IRIS',
+    subtitle: 'AI-Powered Image Intelligence Platform. ',
+    liveLink: 'https://github.com/n-qobile/iris-platform.git',
+    githubLink: 'https://github.com/n-qobile/iris-platform.git',
+    image: '/images/projects/iris.jpg',
+    date: '2026-01-21',
+    desc:
+      'IRIS is an AI-powered image intelligence platform using AWS cloud services for image analysis and processing. ' +
+      'Designed a scalable cloud architecture integrating AI capabilities with secure cloud storage and application delivery.',
+    tools: [
+      'AWS (S3, Rekognition, Lambda, Cloudfront, Gateway, DynamoDB, CloudWatch)',
+      'React',
+      'Custom CSS',
+      'Fetch API',
+      'AWS CLI',
+      'GitHub Actions',
+    ],
+    isCapstone: false,
+    hasCaseStudy: true,
+  },
+
+  {
     id: 'prepcheck',
     title: 'PrepCheck',
     subtitle: 'AI powered Work Readiness Screener.',
