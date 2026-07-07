@@ -1,6 +1,6 @@
 # Hi, I'm Nqobile 👋
 
-I'm a **self-taught fullstack developer** with a unique journey from healthcare to tech. My background in Speech-Language Pathology taught me the power of communication, problem-solving, and empathy which are skills I now channel into building meaningful digital experiences.
+I'm a **Software Engineer** with a unique journey from healthcare to tech. My background in Speech-Language Pathology taught me the power of communication, problem-solving, and empathy which are skills I now channel into building meaningful digital experiences.
 
 # My Journey to Tech
 
@@ -8,7 +8,7 @@ In 2024, I stumbled upon a coding video by chance, and something clicked. I was 
 
 While still working in healthcare, I dove headfirst into learning JavaScript, React, Node.js, and everything in between. I'd finish my shifts at the hospital and immediately switch gears to coding where I was building projects, debugging errors at 2 AM, and gradually watching my skills transform.
 
-Fast forward to today: I've built fullstack applications, tackled complex challenges, and discovered that I genuinely love this craft. I'm now fully committed to growing as a software engineer and contributing to impactful projects.
+Fast forward to today: I've fully transitioned into tech, built fullstack applications, tackled complex challenges, collaborated and worked with agile teams and discovered that I genuinely love this craft. I have also began specialising in Cloud Engineering mainly through AWS Academy and cloud projects.  
 
 # What Drives Me
 
@@ -20,7 +20,7 @@ Fast forward to today: I've built fullstack applications, tackled complex challe
 
 # My Approach to Development
 
-I believe great software comes from understanding both the technical and human sides of a problem. My healthcare background taught me to listen, empathise, and communicate clearly which are skills that translate surprisingly well into collaborating with teams, understanding user needs, and writing maintainable code.
+I believe great software comes from understanding both the technical and human sides of a problem. My healthcare background taught me to listen, empathise, and communicate clearly which are skills that translate surprisingly well into collaborating with teams, understanding user needs, and writing maintainable code. I enjoy building scalable, maintainable software and continuously expanding my knowledge in cloud technologies and modern software engineering practices.
 
 I'm particularly passionate about:
 - **Fullstack development** (MERN stack is my playground)
@@ -48,9 +48,10 @@ When I'm not coding, you'll find me:
 
 I'm excited to join a team where I can:
 - Contribute to meaningful projects that solve real problems.
-- Continue learning from experienced developers.
+- Continue learning from experienced developers and Cloud Engineers.
 - Collaborate with people who value creativity and curiosity.
 - Build software that makes a difference.
+- Build cloud architecture that follows best practices. 
 
 # Let's Connect
 
